@@ -6,8 +6,8 @@
 
 Voice Operated Lift is an embedded systems project that explores the use of voice commands to control lift operations. The system demonstrates hands-free lift operation using speech recognition and microcontroller-based automation.
 
-«Project source: "Original B.E. Project" (https://github.com/shaileshkumar11/B.E.-Project)
-Original author: Shailesh Kumar»
+Project source: "Original B.E. Project" (https://github.com/rushi-56/Voice-Operated-Lift-System)
+author: Rushikesh Markad
 
 ---
 
