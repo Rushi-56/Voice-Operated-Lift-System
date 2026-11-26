@@ -1,12 +1,12 @@
 🎤 Voice Operated Lift System
 
-"Platform" (https://img.shields.io/badge/Platform-Embedded%20System-blue)
-"Language" (https://img.shields.io/badge/Language-Embedded%20C-green)
-"Interface" (https://img.shields.io/badge/Interface-Voice%20Control-red)
+![Platform](https://img.shields.io/badge/Platform-Embedded_System-blue)
+![Language](https://img.shields.io/badge/Language-Embedded_C-green)
+![Interface](https://img.shields.io/badge/Interface-Voice_Control-red)
 
 Voice Operated Lift is an embedded systems project that explores the use of voice commands to control lift operations. The system demonstrates hands-free lift operation using speech recognition and microcontroller-based automation.
 
-Project source: "Original B.E. Project" (https://github.com/rushi-56/Voice-Operated-Lift-System)
+Project source: "B.E. Project" (https://github.com/rushi-56/Voice-Operated-Lift-System)
 author: Rushikesh Markad
 
 ---
