@@ -60,12 +60,13 @@ Software
 4. Motor Driver Activation — Controls lift movement or door operation.
 5. Safety Checks — Obstruction sensors are described as ensuring safe operation.
 
-## 📸 Project Photos
+🎥 Video
 
-### Hardware Setup
-![Hardware](project_image.jpg)
+<video src="./video.mp4" controls width="100%">
+</video>---
 
-## 🎥 Project Demonstration
+📸 Photo
 
-[▶️ Watch Project Video](video.mp4)
+<img src="./project_image.jpeg" alt="Voice Operated Lift Hardware" width="100%"/>
+
 
