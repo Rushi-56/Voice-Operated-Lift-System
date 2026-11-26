@@ -59,3 +59,13 @@ Software
 3. Microcontroller Control — Command is mapped to a lift function.
 4. Motor Driver Activation — Controls lift movement or door operation.
 5. Safety Checks — Obstruction sensors are described as ensuring safe operation.
+
+## 📸 Project Photos
+
+### Hardware Setup
+![Hardware](project_image.jpg)
+
+## 🎥 Project Demonstration
+
+[▶️ Watch Project Video](video.mp4)
+
